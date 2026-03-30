@@ -1,3 +1,21 @@
+# virtual environment
 venv/
+
+# Python cache
 __pycache__/
-*.pycvenv/
+*.pyc
+*.pyo
+
+# IDE/editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.spyderproject
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
